@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="tenor.gif" alt="computer illustration" min-width="280px" max-width="280px" width="280px" margin-left="200px" align="right">
 <p align="left"> 
   Hi, my name is Lara! I'm a software developer and a Computer Science undergraduate at UFV. I work with backend development using Python, focusing on geoprocessing.
 </p>
